@@ -1,13 +1,22 @@
 # Degree
-- degree: Bachelor of Arts, Human Rights
-  uni: Yale University
-  year: 2004 &mdash; 2008
+- degree: Ph.D. in Government
+  uni: The University of Texas at Austin
+  year: 2016 &mdash; May 2023 (est)
   awards:
-    - award: Summa Cumme Laude graduate
-  summary: If you had any meaningful roles at college, feel free to write about them here
+    - award: Subfields: International Relations and Political Methodology
+    - award: Dissertation: _Coercive and Catalytic Foreign Aid Strategies for Promoting Human Rights_
+  #summary: 
 
-- degree: High School Diploma
-  uni: Springfield High School
-  year: 2004
-  award: Most likely to succeed
-  summary: You can choose to have either a single or multiple awards
+- degree: M.S. in International Political Economy
+  uni: The University of Texas at Dallas
+  year: 2015
+  awards:
+    - award: Focus in International Business and Public Policy
+    - award: Area Focus in Latin American Politics and Development
+  #summary: You can choose to have either a single or multiple awards
+- degree: B.S. in International Political Economy
+  uni: The University of Texas at Dallas
+  year: 2013
+  awards:
+    - award: _Summa Cum Laude_
+    - award: Focus in Latin American Economic Development
